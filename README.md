@@ -58,7 +58,7 @@ Sr # | Backbone | Layers | epochs | Train  | Validation  | Test
 
 **Loss Curve with respect to epochs**
 
-![Loss with respect to number of epochs](figures/vgg16_entire_loss)
+![Loss with respect to number of epochs](figures/vgg16_entire_loss.png)
 
 **Accuracy Curve with respect to epochs**
 
