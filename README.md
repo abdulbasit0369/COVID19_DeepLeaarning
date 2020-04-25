@@ -4,7 +4,6 @@ This assignment is only for learning purposes and is not intended to be used for
 
 # Dataset
 [Dataset Folder] (https://drive.google.com/drive/u/1/folders/1-FzZhQO9oHIT9SNOWYoKsuz7fe447vtR)
-[Dataset (zip file)] (https://drive.google.com/file/d/1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK/view)
 
 # Weights (trained models)
 
