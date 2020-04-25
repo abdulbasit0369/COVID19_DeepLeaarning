@@ -54,6 +54,10 @@ Sr # | Backbone | Layers | epochs | Train  | Validation  | Test
 
 ![Accuracy with respect to number of epochs](figures/vgg16_fc_only_acc.png)
 
+**Confusion Matrix on Test Set**
+
+![confmatrix_vgg16_fc_only](figures/vgg16_conf_fc_only.png)
+
 ### VGG16 entire Network
 
 **Loss Curve with respect to epochs**
@@ -63,6 +67,10 @@ Sr # | Backbone | Layers | epochs | Train  | Validation  | Test
 **Accuracy Curve with respect to epochs**
 
 ![Accuaracy with respect to number of epochs](figures/vgg16_entire_acc.png)
+
+**Confusion Matrix on Test Set**
+
+![confmatrix_vgg16_entire](figures/vgg16_conf_entire.png)
 
 ### ResNet18 FC Layers Only
 
@@ -74,6 +82,10 @@ Sr # | Backbone | Layers | epochs | Train  | Validation  | Test
 
 ![Accuaracy with respect to number of epochs](figures/resnet18_fc_only_acc.png)
 
+**Confusion Matrix on Test Set**
+
+![confmatrix_resnet18_fc_only](figures/res18_conf_fc_only.png)
+
 ### ResNet18 Entire Network
 
 **Loss Curve with respect to epochs**
@@ -83,3 +95,7 @@ Sr # | Backbone | Layers | epochs | Train  | Validation  | Test
 **Accuracy Curve with respect to epochs**
 
 ![Accuaracy with respect to number of epochs](figures/resnet18_entire_acc.png)
+
+**Confusion Matrix on Test Set**
+
+![confmatrix_res18_entire](figures/res18_conf_entire.png)
