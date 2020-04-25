@@ -45,16 +45,24 @@ Sr # | Backbone | Layers | epochs | Train  | Validation  | Test
 
 ## Loss and Accuracy Curves:
 ### VGG16 FC Layers Only:
-![Loss with respect to number of epochs](figures/vgg16_fc_only_loss)
-![Accuracy with respect to number of epochs](figures/vgg16_fc_only_accuracy)
+**Loss Curve with respect to epochs**
+![Loss with respect to number of epochs](figures/vgg16_fc_only_loss.png)
+**Accuracy Curve with respect to epochs**
+![Accuracy with respect to number of epochs](figures/vgg16_fc_only_accuracy.png)
 ### VGG16 entire Network
+**Loss Curve with respect to epochs**
 ![Loss with respect to number of epochs](figures/vgg16_entire_loss)
-![Accuaracy with respect to number of epochs](figures/vgg16_entire_accuracy)
+**Accuracy Curve with respect to epochs**
+![Accuaracy with respect to number of epochs](figures/vgg16_entire_accuracy.png)
 
 ### ResNet18 FC Layers Only
-![Loss with respect to number of epochs](figures/resnet18_fc_only_loss)
-![Accuaracy with respect to number of epochs](figures/resnet18_fc_only_accuracy)
+**Loss Curve with respect to epochs**
+![Loss with respect to number of epochs](figures/resnet18_fc_only_loss.png)
+**Accuracy Curve with respect to epochs**
+![Accuaracy with respect to number of epochs](figures/resnet18_fc_only_accuracy.png)
 
 ### ResNet18 Entire Network
-![Loss with respect to number of epochs](figures/resnet18_entire_loss)
-![Accuaracy with respect to number of epochs](figures/resnet18_entire_accuracy)
+**Loss Curve with respect to epochs**
+![Loss with respect to number of epochs](figures/resnet18_entire_loss.png)
+**Accuracy Curve with respect to epochs**
+![Accuaracy with respect to number of epochs](figures/resnet18_entire_accuracy.png)
