@@ -117,6 +117,8 @@ Sr # | Backbone | Layers | epochs | Train  | Validation  | Test
 
 **ResNet18 (Focal Loss)** : [ResNet18 Focal Loss](https://drive.google.com/file/d/1zFv0r7wwDcmTooMN1wTcgOgh14Vm1mFX/view?usp=sharing)
 
+## Results
+
 ### Accuracy Table
 Sr # | Backbone| Loss | Epochs | Train  | Validation
 ---|---|---|---|---|---
@@ -132,3 +134,13 @@ Sr # | Backbone| Loss | Epochs | Train  | Validation
 2 | ResNet18 | BCE | 23 | 0.89 | 0.90 
 3 | VGG16 | Focal | 19 | 0.88 | 0.94 
 4 | ResNet18 | Focal | 24 | 0.89 | 0.93 
+
+### Loss and Accuracy Curves:
+
+#### VGG16 BCE Loss
+
+#### ResNet18 BCE Loss
+
+#### VGG16 Focal Loss
+
+#### ResNet18 Focal Loss
