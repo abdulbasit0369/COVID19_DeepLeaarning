@@ -47,57 +47,57 @@ Sr # | Backbone | Layers | epochs | Train  | Validation  | Test
 ### Loss and Accuracy Curves:
 #### VGG16 FC Layers Only:
 
-**Loss Curve with respect to epochs**
+Loss Curve with respect to epochs
 
 ![Loss with respect to number of epochs](figures/vgg16_fc_only_loss.png)
 
-**Accuracy Curve with respect to epochs**
+Accuracy Curve with respect to epochs
 
 ![Accuracy with respect to number of epochs](figures/vgg16_fc_only_acc.png)
 
-**Confusion Matrix on Test Set**
+Confusion Matrix on Test Set
 
 ![confmatrix_vgg16_fc_only](figures/vgg16_conf_fc_only.png)
 
 #### VGG16 entire Network
 
-**Loss Curve with respect to epochs**
+Loss Curve with respect to epochs
 
 ![Loss with respect to number of epochs](figures/vgg16_entire_loss.png)
 
-**Accuracy Curve with respect to epochs**
+Accuracy Curve with respect to epochs
 
 ![Accuaracy with respect to number of epochs](figures/vgg16_entire_acc.png)
 
-**Confusion Matrix on Test Set**
+Confusion Matrix on Test Set
 
 ![confmatrix_vgg16_entire](figures/vgg16_conf_entire.png)
 
 #### ResNet18 FC Layers Only
 
-**Loss Curve with respect to epochs**
+Loss Curve with respect to epochs
 
 ![Loss with respect to number of epochs](figures/resnet18_fc_only_loss.png)
 
-**Accuracy Curve with respect to epochs**
+Accuracy Curve with respect to epochs
 
 ![Accuaracy with respect to number of epochs](figures/resnet18_fc_only_acc.png)
 
-**Confusion Matrix on Test Set**
+Confusion Matrix on Test Set
 
 ![confmatrix_resnet18_fc_only](figures/res18_conf_fc_only.png)
 
 #### ResNet18 Entire Network
 
-**Loss Curve with respect to epochs**
+Loss Curve with respect to epochs
 
 ![Loss with respect to number of epochs](figures/resnet18_entire_loss.png)
 
-**Accuracy Curve with respect to epochs**
+Accuracy Curve with respect to epochs
 
 ![Accuaracy with respect to number of epochs](figures/resnet18_entire_acc.png)
 
-**Confusion Matrix on Test Set**
+Confusion Matrix on Test Set
 
 ![confmatrix_res18_entire](figures/res18_conf_entire.png)
 
@@ -139,68 +139,92 @@ Sr # | Backbone| Loss | Epochs | Train  | Validation
 
 #### VGG16 BCE Loss
 
-**Loss Curve**
+Loss Curve
 
 ![vgg16_bce_loss](figures/vgg_bce_loss.png)
 
 
-**Accuracy Curve**
+Accuracy Curve
 
 ![vgg16_bce_acc](figures/vgg_bce_acc.png)
 
-**Validation Confusion Matrix**
+Validation Confusion Matrix
 
 ![covid_class1](figures/vgg_bce_val_1.png)
 ![pne_class1](figures/vgg_bce_val_2.png)
 ![normal_class1](figures/vgg_bce_val_3.png)
 
+Training Confusion Matrix
+
+![covid_class41](figures/vgg_bce_tre_1.png)
+![pne_class41](figures/vgg_bce_tre_2.png)
+![normal_class41](figures/vgg_bce_tre_3.png)
+
 #### ResNet18 BCE Loss
 
-**Loss Curve**
+Loss Curve
 
 ![res18_bce_loss](figures/res_bce_loss.png)
 
 
-**Accuracy Curve**
+Accuracy Curve
 
 ![res18_bce_acc](figures/res_bce_acc.png)
 
-**Validation Confusion Matrix**
+Validation Confusion Matrix
 
 ![covid_class2](figures/res_bce_val_1.png)
 ![pne_class2](figures/res_bce_val_2.png)
 ![normal_class2](figures/res_bce_val_3.png)
 
+Training Confusion Matrix
+
+![covid_class42](figures/res_bce_tre_1.png)
+![pne_class42](figures/res_bce_tre_2.png)
+![normal_class42](figures/res_bce_tre_3.png)
+
 #### VGG16 Focal Loss
 
-**Loss Curve**
+Loss Curve
 
 ![vgg16_fce_loss](figures/vgg_fce_loss.png)
 
 
-**Accuracy Curve**
+Accuracy Curve
 
 ![vgg16_fce_acc](figures/vgg_fce_acc.png)
 
-**Validation Confusion Matrix**
+Validation Confusion Matrix
 
 ![covid_class3](figures/vgg_fce_val_1.png)
 ![pne_class3](figures/vgg_fce_val_2.png)
 ![normal_class3](figures/vgg_fce_val_3.png)
 
+Training Confusion Matrix
+
+![covid_class43](figures/vgg_fce_tre_1.png)
+![pne_class43](figures/vgg_fce_tre_2.png)
+![normal_class43](figures/vgg_fce_tre_3.png)
+
 #### ResNet18 Focal Loss
 
-**Loss Curve**
+Loss Curve
 
 ![res18_fce_loss](figures/res_fce_loss.png)
 
 
-**Accuracy Curve**
+Accuracy Curve
 
 ![res18_fce_acc](figures/res_fce_acc.png)
 
-**Validation Confusion Matrix**
+Validation Confusion Matrix
 
 ![covid_class4](figures/res_fce_val_1.png)
 ![pne_class4](figures/res_fce_val_2.png)
 ![normal_class4](figures/res_fce_val_3.png)
+
+Training Confusion Matrix
+
+![covid_class44](figures/res_fce_tre_1.png)
+![pne_class44](figures/res_fce_tre_2.png)
+![normal_class44](figures/res_fce_tre_3.png)
