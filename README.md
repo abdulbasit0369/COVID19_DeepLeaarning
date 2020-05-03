@@ -150,9 +150,9 @@ Sr # | Backbone| Loss | Epochs | Train  | Validation
 
 **Validation Confusion Matrix**
 
-![covid_class](figures/vgg_bce_val_1.png)
-![pne_class](figures/vgg_bce_val_2.png)
-![normal_class](figures/vgg_bce_val_3.png)
+![covid_class1](figures/vgg_bce_val_1.png)
+![pne_class1](figures/vgg_bce_val_2.png)
+![normal_class1](figures/vgg_bce_val_3.png)
 
 #### ResNet18 BCE Loss
 
@@ -167,6 +167,10 @@ Sr # | Backbone| Loss | Epochs | Train  | Validation
 
 **Validation Confusion Matrix**
 
+![covid_class2](figures/res_bce_val_1.png)
+![pne_class2](figures/res_bce_val_2.png)
+![normal_class2](figures/res_bce_val_3.png)
+
 #### VGG16 Focal Loss
 
 **Loss Curve**
@@ -180,6 +184,10 @@ Sr # | Backbone| Loss | Epochs | Train  | Validation
 
 **Validation Confusion Matrix**
 
+![covid_class3](figures/vgg_fce_val_1.png)
+![pne_class3](figures/vgg_fce_val_2.png)
+![normal_class3](figures/vgg_fce_val_3.png)
+
 #### ResNet18 Focal Loss
 
 **Loss Curve**
@@ -192,3 +200,7 @@ Sr # | Backbone| Loss | Epochs | Train  | Validation
 ![res18_fce_acc](figures/res_fce_acc.png)
 
 **Validation Confusion Matrix**
+
+![covid_class4](figures/res_fce_val_1.png)
+![pne_class4](figures/res_fce_val_2.png)
+![normal_class4](figures/res_fce_val_3.png)
