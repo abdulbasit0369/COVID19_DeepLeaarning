@@ -139,8 +139,47 @@ Sr # | Backbone| Loss | Epochs | Train  | Validation
 
 #### VGG16 BCE Loss
 
+**Loss Curve**
+
+![vgg16_bce_loss](figures/vgg_bce_loss.png)
+
+
+**Accuracy Curve**
+
+![vgg16_bce_acc](figures/vgg_bce_acc.png)
+
+
 #### ResNet18 BCE Loss
+
+**Loss Curve**
+
+![res18_bce_loss](figures/res_bce_loss.png)
+
+
+**Accuracy Curve**
+
+![res18_bce_acc](figures/res_bce_acc.png)
+
 
 #### VGG16 Focal Loss
 
+**Loss Curve**
+
+![vgg16_fce_loss](figures/vgg_fce_loss.png)
+
+
+**Accuracy Curve**
+
+![vgg16_fce_acc](figures/vgg_fce_acc.png)
+
+
 #### ResNet18 Focal Loss
+
+**Loss Curve**
+
+![res18_fce_loss](figures/res_fce_loss.png)
+
+
+**Accuracy Curve**
+
+![res18_fce_acc](figures/res_fce_acc.png)
