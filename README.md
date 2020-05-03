@@ -156,9 +156,9 @@ Validation Confusion Matrix
 
 Training Confusion Matrix
 
-![covid_class41](figures/vgg_bce_tre_1.png)
-![pne_class41](figures/vgg_bce_tre_2.png)
-![normal_class41](figures/vgg_bce_tre_3.png)
+![covid_class41](figures/vgg_bce_tr_1.png)
+![pne_class41](figures/vgg_bce_tr_2.png)
+![normal_class41](figures/vgg_bce_tr_3.png)
 
 #### ResNet18 BCE Loss
 
@@ -179,9 +179,9 @@ Validation Confusion Matrix
 
 Training Confusion Matrix
 
-![covid_class42](figures/res_bce_tre_1.png)
-![pne_class42](figures/res_bce_tre_2.png)
-![normal_class42](figures/res_bce_tre_3.png)
+![covid_class42](figures/res_bce_tr_1.png)
+![pne_class42](figures/res_bce_tr_2.png)
+![normal_class42](figures/res_bce_tr_3.png)
 
 #### VGG16 Focal Loss
 
@@ -202,9 +202,9 @@ Validation Confusion Matrix
 
 Training Confusion Matrix
 
-![covid_class43](figures/vgg_fce_tre_1.png)
-![pne_class43](figures/vgg_fce_tre_2.png)
-![normal_class43](figures/vgg_fce_tre_3.png)
+![covid_class43](figures/vgg_fce_tr_1.png)
+![pne_class43](figures/vgg_fce_tr_2.png)
+![normal_class43](figures/vgg_fce_tr_3.png)
 
 #### ResNet18 Focal Loss
 
@@ -225,6 +225,6 @@ Validation Confusion Matrix
 
 Training Confusion Matrix
 
-![covid_class44](figures/res_fce_tre_1.png)
-![pne_class44](figures/res_fce_tre_2.png)
-![normal_class44](figures/res_fce_tre_3.png)
+![covid_class44](figures/res_fce_tr_1.png)
+![pne_class44](figures/res_fce_tr_2.png)
+![normal_class44](figures/res_fce_tr_3.png)
