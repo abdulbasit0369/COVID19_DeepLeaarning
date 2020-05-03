@@ -11,7 +11,6 @@ use the fillowing links for model weights:
 
 # Weights (Part 2)
 
-## Weights:
 
 **VGG16 (BCE Loss)** : [VGG16 BCE Loss](https://drive.google.com/file/d/10rrJQEAYnIPzOsAnFjVyouZAnddoZ7jx/view?usp=sharing)
 
