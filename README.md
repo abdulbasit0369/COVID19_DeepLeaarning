@@ -119,7 +119,7 @@ Sr # | Backbone | Layers | epochs | Train  | Validation  | Test
 
 ### Accuracy Table
 Sr # | Backbone| Loss | Epochs | Train  | Validation
----|---|---|---|---|---|---
+---|---|---|---|---|---
 1 | VGG16 | BCE | 21 | 91 | 92 
 2 | ResNet18 | BCE | 23 | 89 | 90 
 3 | VGG16 | Focal | 19 | 88 | 93 
@@ -127,7 +127,7 @@ Sr # | Backbone| Loss | Epochs | Train  | Validation
 
 ### F1-Score Table
 Sr # | Backbone| Loss | Epochs | Train  | Validation
----|---|---|---|---|---|---
+---|---|---|---|---|---
 1 | VGG16 | BCE | 21 | 0.91 | 0.93 
 2 | ResNet18 | BCE | 23 | 0.89 | 0.90 
 3 | VGG16 | Focal | 19 | 0.88 | 0.94 
